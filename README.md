@@ -1,12 +1,24 @@
-# 👋 Hello there!
+<h1 align="center">Hi there, I'm Ahmed 👋</h1>
+<h3 align="center">Flutter Developer | Software Engineer | Mobile Craftsman 🛠️</h3>
 
-I'm **Ahmed Mohamed Abdelmoty**, a passionate **Flutter Developer** and **Software Engineer** with 4+ years of experience crafting scalable, user-friendly mobile applications. I'm driven by clean architecture, beautiful UI, and writing efficient, maintainable code.
-
-- 📍 Based in **Cairo, Egypt**
-- 📧 theabdelmo3ty@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/ahmed-abdelmo3ty) | [GitHub](https://github.com/Abdelmo3ty97)
+<p align="center">
+  <a href="https://github.com/Abdelmo3ty97"><img src="https://img.shields.io/github/followers/Abdelmo3ty97?label=Follow&style=social"></a>
+  <a href="mailto:theabdelmo3ty@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ahmed-abdelmo3ty"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
+
+<img align="right" src="https://raw.githubusercontent.com/Abdelmo3ty97/Abdelmo3ty97/main/assets/coding.gif" width="300"/>
+
+### 🧠 About Me
+
+```dart
+I'm Ahmed - a passionate Flutter developer who builds sleek, scalable, and user-friendly mobile apps.
+I love working with cutting-edge tools and solving real-world problems through elegant code.
+
+
+
 
 ## 🚀 About Me
 
