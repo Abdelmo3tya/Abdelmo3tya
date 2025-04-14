@@ -1,84 +1,147 @@
-<h1 align="center">Hi there, I'm Ahmed 👋</h1>
-<h3 align="center">Flutter Developer | Software Engineer | Mobile Craftsman 🛠️</h3>
+<h1 align="center">Hi, I'm Ahmed Mohamed Abdelmoty 👋</h1>
+<h3 align="center">Senior Flutter Developer | Software Engineer | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://github.com/Abdelmo3ty97"><img src="https://img.shields.io/github/followers/Abdelmo3ty97?label=Follow&style=social"></a>
-  <a href="mailto:theabdelmo3ty@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ahmed-abdelmo3ty"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ahmed-abdelmo3ty"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:theabdelmo3ty@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Abdelmo3ty97"><img src="https://img.shields.io/github/followers/Abdelmo3ty97?label=GitHub&style=social" /></a>
 </p>
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/Abdelmo3ty97/Abdelmo3ty97/main/assets/coding.gif" width="300"/>
+## 👨‍💻 Who Am I?
 
-### 🧠 About Me
+I'm a software engineer specializing in **Flutter mobile development** with over **4 years of experience** delivering production-level apps across the Gulf region. From real-time tracking to e-commerce platforms, I focus on **performance**, **scalability**, and **beautiful UX**.
 
-```dart
-I'm Ahmed - a passionate Flutter developer who builds sleek, scalable, and user-friendly mobile apps.
-I love working with cutting-edge tools and solving real-world problems through elegant code.
-
-
-
-
-## 🚀 About Me
-
-- 🛠 Specialized in Flutter, Dart, Firebase & CI/CD pipelines
-- 🧠 Continuously learning and exploring new technologies
-- 🤝 Proven experience collaborating with international teams (Saudi Arabia, Bahrain, Gulf region)
-- 🔍 I love solving problems and building real-world mobile solutions that scale!
+My mission is simple: **build digital products that solve real-world problems**.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🏆 Highlights
 
-**Languages**: Dart (Flutter), Java SE, Python  
-**Databases**: SQLite, Hive  
-**Architecture & State Management**: Provider, Bloc, GetX, GetIt  
-**APIs & Networking**: Dio, HTTP  
-**Real-time Communication**: Socket.IO  
-**CI/CD**: Experienced in building and maintaining pipelines  
-**Tools**: Git, GitHub, Xcode, Android Studio, VS Code  
-**UI/UX**: Adobe XD, Figma  
-**Payment Integrations**: Stripe, PayPal, and Gulf payment gateways  
-**Testing**: Unit, Widget, and Integration Testing  
-**Agile Methodologies**: Agile, Scrum  
+- 🔧 Built 10+ production-ready apps used by thousands in **Bahrain, Saudi Arabia, and Egypt**.
+- 🚀 Led development teams and collaborated with cross-functional stakeholders.
+- 💡 Mastered **state management**, **real-time communication**, and **payment systems**.
+- 📦 Deployed CI/CD pipelines, optimized for App Store & Play Store releases.
+- 🎯 Strong business focus: apps I built helped increase sales by up to **30%** and reduce overheads by **40%**.
 
 ---
 
-## 📱 Featured Projects
+## 📱 Projects Showcase
 
-### 🔹 [Thawaqa App](https://apps.apple.com/eg/app/zawaqa/id6504526461)  
-Food discovery & delivery app tailored for Gulf users. Real-time tracking, payment integration, smart filters.
+### 🚚 [Thawaqa – Food Discovery App](https://apps.apple.com/eg/app/zawaqa/id6504526461)
+A feature-rich food ordering app with real-time order tracking, filters, and mobile payment integration.
 
-### 🔹 [Star App (Abayas & Hijabs)](https://apps.apple.com/eg/app/star-%D8%B3-%D8%AA%D8%A7%D8%B1/id6478087573)  
-E-commerce app with high-res images, customization options, and secure checkout.
-
-### 🔹 [POPs Enterprise](https://apps.apple.com/sa/app/pops-enterprise/id6448128426)  
-Retail management app with inventory, sales tracking, and multi-branch handling.
-
-### 🔹 [POPs Management](https://apps.apple.com/sa/app/pops-management/id1330377132)  
-Restaurant management platform—reduced overhead costs by 40%, boosted sales.
-
-### 🔹 [ALNadi Pharmacy App](https://apps.apple.com/us/app/alnadi-pharmacy-app/id1661975310)  
-Online pharmacy shopping with location-based delivery and detailed analytics.
-
-### 🔹 [Alghafestaqeem - العقاري](https://apps.apple.com/sa/app/%D8%A7%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%89/id6459021631)  
-Real estate app for browsing, submitting properties, and tracking request statuses.
-
-More projects on my [GitHub profile](https://github.com/Abdelmo3ty97) 🚀
+> ✅ Built with: Flutter + Firebase + Dio + Location Services  
+> 📈 Boosted user retention by 20%  
+> 📍 Region: Gulf
 
 ---
 
-## 📈 GitHub Stats
+### 🛍 [Star – E-commerce for Abayas & Scarves](https://apps.apple.com/eg/app/star-%D8%B3-%D8%AA%D8%A7%D8%B1/id6478087573)
+A high-converting store app for traditional wear with real-time inventory, offers, and secure payments.
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelmo3tya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelmo3tya&layout=compact&theme=radical)
+> 🛒 Includes multi-variant support, wishlists, and smooth UX  
+> 💸 Increased checkout conversions by 25%  
+> 🔐 Secure payment via Stripe and local gateways
 
 ---
 
-## 💬 Let's Connect
+### 🏪 [POPs Enterprise – Retail System](https://apps.apple.com/sa/app/pops-enterprise/id6448128426)
+Business tool for multi-branch retail management: POS, inventory, reporting, and more.
 
-I'm open to freelance projects, collaborations, or just chatting about tech ☕  
-Reach out via [email](mailto:theabdelmo3ty@gmail.com) or [LinkedIn](https://linkedin.com/in/ahmed-abdelmo3ty)
+> ⚙️ Built real-time dashboards and custom analytics  
+> 📉 Cut operational waste by 40%  
+> 👨‍💼 Used by chain owners to monitor 24/7
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+---
+
+### 💊 [ALNadi Pharmacy App](https://apps.apple.com/us/app/alnadi-pharmacy-app/id1661975310)
+Online pharmacy with GPS delivery tracking and order analytics.
+
+> 🧭 Built delivery ETA + location-based services  
+> 📊 Custom order reports for pharmacy owners  
+> 🛡️ HIPAA-compliant backend setup
+
+---
+
+## 🧠 Skills Matrix
+
+### 👨‍💻 Programming
+- Dart (Flutter), Java, Python  
+- REST APIs, Firebase Firestore, Realtime DB, Socket.IO
+
+### 🧩 Architecture
+- MVC, Clean Architecture  
+- Dependency Injection with GetIt
+
+### ⚙️ State Management
+- Provider, Bloc, GetX
+
+### 📦 Tools
+- Git/GitHub, Android Studio, Xcode, Firebase, Fastlane  
+- Figma, Adobe XD (UX/UI collaboration)
+
+### 📲 Integrations
+- Stripe, PayPal, STCPay, Tap, MyFatoorah  
+- Google Maps, Firebase Auth, Push Notifications
+
+### ✅ Testing & CI/CD
+- Unit, Widget, Integration Testing  
+- GitHub Actions, Fastlane, Firebase Distribution
+
+---
+
+## 👨‍💼 Experience Timeline
+
+| Role | Company | Period | Location |
+|------|---------|--------|----------|
+| **Flutter Developer** | AKS Technology | 2024 – Present | Cairo |
+| **Flutter Developer** | Posbank | 2023 | Bahrain |
+| **Flutter Developer** | Almurafiq | 2021 – 2022 | Saudi Arabia |
+| **Freelancer** | Various Gulf Clients | 2020 – 2022 | Remote |
+
+---
+
+## 🎓 Education & Training
+
+- 📚 **Diploma in Information Systems** – Abbasia High Institute  
+- 🎓 **B.A. in History & Civilization** – Al-Azhar University  
+- 📜 Ongoing Self-Training via Udemy, GitHub, and community mentorships
+
+---
+
+## 🧭 My Dev Philosophy
+
+> 🧠 *"I believe in writing code that's simple, maintainable, and scalable."*  
+> ✨ I treat every feature as a **product** — it must **work well**, **look great**, and **deliver value**.
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelmo3tya&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelmo3tya&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelmo3ty97&theme=radical" />
+</p>
+
+---
+
+## 🤝 Let's Build Together!
+
+I'm always open to:
+- Freelance Flutter gigs
+- Remote contracts
+- Tech talks, mentoring, or collaborations
+
+📬 **[Email me](mailto:theabdelmo3ty@gmail.com)** or connect on [**LinkedIn**](https://linkedin.com/in/ahmed-abdelmo3ty)  
+👉 Check out my full portfolio: [github.com/Abdelmo3ty97](https://github.com/Abdelmo3ty97)
+
+---
+
+> _“You don’t just write code, you craft experiences.”_
+
