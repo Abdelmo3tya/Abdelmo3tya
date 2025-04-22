@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-abdelmo3ty"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:theabdelmo3ty@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Abdelmo3ty97"><img src="https://img.shields.io/github/followers/Abdelmo3ty97?label=GitHub&style=social" /></a>
+  <a href="https://github.com/Abdelmo3ty97"><img src="https://img.shields.io/github/followers/Abdelmo3tya?label=GitHub&style=social" /></a>
 </p>
 
 ---
